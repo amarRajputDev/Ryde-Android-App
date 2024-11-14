@@ -9,6 +9,7 @@
     }
   },
   "include": [
+    "metro.config.ts",
     "**/*.ts",
     "**/*.tsx",
     ".expo/types/**/*.ts",
